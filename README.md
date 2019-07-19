@@ -2,4 +2,4 @@
 **Funny code**
 
 ** **Copyright** **
-If you want to make it better, you are free to do it.
+If you can make it more funny, you are free to do it.
