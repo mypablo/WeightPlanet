@@ -5,7 +5,6 @@ public class WeightPlanet {
 	public static void main(String[] args) {
 
 
-
 		int pluto = 15;
 		double moon = 6.0;
 		double mars = 2;
